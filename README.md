@@ -1,9 +1,9 @@
-* Simple testing with Bootstrap 5 Alpha 5
+# Simple testing with Bootstrap 5 Alpha 5
 
-** To install
+## To install
 
 npm install
 
-** To run
+## To run
 
 parcel index.html
